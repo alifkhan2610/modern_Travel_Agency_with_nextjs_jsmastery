@@ -5,7 +5,7 @@ import Button from "./Button";
 
 const Navbar = () => {
   return (
-    <nav className="flexBetween relative max-container padding-container z-30 py-5">
+    <nav className="flexBetween relative max-container padding-container z-30  py-5">
       <Link href="/">
         <Image src="/hilink-logo.svg" alt="logo" height={29} width={74} />
       </Link>
